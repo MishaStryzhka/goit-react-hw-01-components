@@ -2,6 +2,11 @@
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://MishaStryzhka.github.io/goit-react-hw-01-components",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-react-hw-01-components/"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
