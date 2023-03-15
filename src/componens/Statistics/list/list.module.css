@@ -1,0 +1,12 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.label {}
+
+.percentage {
+    margin-top: 5px;
+}
